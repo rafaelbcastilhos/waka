@@ -7,7 +7,9 @@ Jogo Pacman que utiliza a biblioteca gráfica SFML executando sob um sistema ope
 
 - sfml: ```sudo apt-get install libsfml-dev```
 
-### Construção:
+### Construção e execução:
+Mover para diretório fonte: ```cd src```
+
 Para compilar o código: ```make```
 
 Para executar o código: ```./main```
